@@ -1,0 +1,80 @@
+
+sort	sys	Record size: 4
+real time: 1261.784912
+user time: 47.000000
+system time: 78.000000
+
+sort	lib	Record size: 4
+real time: 4189.493164
+user time: 76.000000
+system time: 339.000000
+
+sort	sys	Record size: 512
+real time: 1678.387939
+user time: 53.000000
+system time: 110.000000
+
+sort	lib	Record size: 512
+real time: 4184.538086
+user time: 83.000000
+system time: 333.000000
+
+sort	sys	Record size: 4096
+real time: 1337.093994
+user time: 46.000000
+system time: 86.000000
+
+sort	lib	Record size: 4096
+real time: 4035.456055
+user time: 80.000000
+system time: 320.000000
+
+sort	sys	Record size: 8192
+real time: 1654.534058
+user time: 47.000000
+system time: 114.000000
+
+sort	lib	Record size: 8192
+real time: 4389.678223
+user time: 94.000000
+system time: 340.000000
+
+copy	sys	Record size: 4
+real time: 5.005000
+user time: 0.000000
+system time: 0.000000
+
+copy	lib	Record size: 4
+real time: 0.352000
+user time: 0.000000
+system time: 0.000000
+
+copy	sys	Record size: 512
+real time: 6.404000
+user time: 0.000000
+system time: 0.000000
+
+copy	lib	Record size: 512
+real time: 0.596000
+user time: 0.000000
+system time: 0.000000
+
+copy	sys	Record size: 4096
+real time: 5.083000
+user time: 0.000000
+system time: 0.000000
+
+copy	lib	Record size: 4096
+real time: 2.038000
+user time: 0.000000
+system time: 0.000000
+
+copy	sys	Record size: 8192
+real time: 7.012000
+user time: 0.000000
+system time: 0.000000
+
+copy	lib	Record size: 8192
+real time: 3.239000
+user time: 0.000000
+system time: 0.000000
