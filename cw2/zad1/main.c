@@ -31,6 +31,7 @@ void fillRecords(struct RecArr * arr){
         for(int j=0;j<arr->recordSize;j++){
             arr->val[i][j]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"[rand() % 52];
         }
+	arr->val[i][arr->recordSize-1]= '\n';
     }
 }
 
@@ -182,7 +183,6 @@ int sc(char* s,char* s2){
 
 int main(int argc,char ** argv){
     struct TimeMes time;
-	printf("\n%s\t",argv[1]);
     if(sc(argv[1],"generate")){
         generate(argv[2], a2i(argv[3]), a2i(argv[4]));
     }

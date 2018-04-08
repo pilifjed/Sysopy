@@ -1,3 +1,5 @@
+Wnioski: Kopiowanie przebiegło wolniej niż sortowanie. Funkcje biblioteczne poradziły sobie przecientnie niemal dwukrotnie wolniej niż systemowe. Wielkość rekordu wydawała się nie mieć aż tak wielkiego wpływu. 
+
 
 sort	sys	Record size: 4
 real time: 1261.784912
